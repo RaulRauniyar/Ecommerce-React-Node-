@@ -1,0 +1,23 @@
+.inputBox {
+  display: block;
+  flex-wrap: nowrap;
+  margin: 25px;
+  padding: 7px;
+  width: 300px;
+  border: 1px solid skyblue;
+}
+.register {
+  margin-left: 35%;
+}
+.button-signup {
+  margin-right: 360px;
+  padding: 10px;
+  width: 100px;
+  background-color: azure;
+  border-radius: 2px solid skyblue;
+}
+
+.register-form {
+  display: flex;
+  margin-left: 120px;
+}

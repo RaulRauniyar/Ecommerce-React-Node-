@@ -1,0 +1,23 @@
+.product-list {
+  text-align: center;
+  margin-top: 1%;
+}
+.product-list ul li {
+  display: inline-block;
+  border: 1px solid skyblue;
+  padding: 5px;
+  width: 150px;
+}
+.product-list ul {
+  margin: 0;
+}
+.Update-button {
+  margin-left: 2px;
+}
+.search {
+  width: 10%;
+  padding: 6px;
+  border-radius: 3px;
+  margin: 10px;
+  margin-top: -22%;
+}
